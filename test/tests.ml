@@ -1,4 +1,5 @@
 let () = 
+
   Impl.Day1.test1 "../../../lib/day1/input";
   Impl.Day1.test2 "../../../lib/day1/input";
 
@@ -7,3 +8,5 @@ let () =
 
   Impl.Day3.test1 "../../../lib/day3/input";
   Impl.Day3.test2 "../../../lib/day3/input";
+
+  Impl.Day4.test1 "../../../lib/day4/input";
